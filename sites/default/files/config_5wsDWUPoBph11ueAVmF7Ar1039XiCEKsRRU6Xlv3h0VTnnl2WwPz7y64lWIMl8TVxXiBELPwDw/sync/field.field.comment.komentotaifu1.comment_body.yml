@@ -1,0 +1,21 @@
+uuid: a912c5cf-8fcd-499c-a3bc-673785c17fd2
+langcode: en
+status: true
+dependencies:
+  config:
+    - comment.type.komentotaifu1
+    - field.storage.comment.comment_body
+  module:
+    - text
+id: comment.komentotaifu1.comment_body
+field_name: comment_body
+entity_type: comment
+bundle: komentotaifu1
+label: Comment
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

@@ -1,0 +1,23 @@
+uuid: 7fbf06a6-df01-4a38-9474-7f1efc037257
+langcode: en
+status: true
+dependencies:
+  config:
+    - comment.type.komentotaifu1
+    - field.storage.comment.field_haokinashuzi
+id: comment.komentotaifu1.field_haokinashuzi
+field_name: field_haokinashuzi
+entity_type: comment
+bundle: komentotaifu1
+label: 好きな数字
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  min: null
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: decimal

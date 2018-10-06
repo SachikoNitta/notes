@@ -1,8 +1,0 @@
-uuid: eeca4187-d700-4f37-a908-020952d68e72
-langcode: en
-status: true
-dependencies: {  }
-id: komentotaifu1
-label: コメントタイプ１
-target_entity_type_id: block_content
-description: ''
